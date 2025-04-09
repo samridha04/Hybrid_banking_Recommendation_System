@@ -1,4 +1,4 @@
-## 🏦 Santander Hybrid Recommendation System
+## 🏦 Hybrid Banking Product Recommendation System
 
 
 ### Summary
